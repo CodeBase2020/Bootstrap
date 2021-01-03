@@ -1,0 +1,45 @@
+.navbar {
+  box-shadow: 2px 2px 8px #3292a6;
+  opacity: 0.8; }
+  .navbar .nav-item {
+    font-size: 1.2rem;
+    padding-right: 1.3rem; }
+
+#info-header {
+  width: 50%;
+  margin: auto;
+  border-bottom: 2px solid #ddd; }
+
+#header {
+  margin-top: 4rem; }
+
+#info-header-author {
+  margin: auto;
+  width: 40%;
+  border-bottom: 2px solid #ddd; }
+
+#AuthorCard {
+  margin-bottom: 50px; }
+  #AuthorCard img {
+    margin-top: -50px;
+    margin-bottom: 18px; }
+  #AuthorCard .card:hover {
+    background: #3292a6; }
+
+#postersection {
+  background: url(../img/mountains.jpg);
+  background-repeat: no-repeat;
+  min-height: 650px;
+  max-height: 650px; }
+  #postersection .padding-center {
+    padding-top: 80px; }
+  #postersection .primary-overaly {
+    margin-top: 80px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(50, 146, 166, 0.8);
+    max-height: 570px; }
+  #postersection #copyRight {
+    margin: auto; }
